@@ -1,0 +1,161 @@
+*{margin: 0; padding: 0; list-style: none;}
+body{font-family: "微软雅黑"; font-size: 14px;}
+a:link,a:visited{text-decoration: none;font-size: 16px;}
+
+#header{
+	width: 1160;
+	height: 128px;
+	border-bottom: 3px solid #d5d5d5;
+	background-color: pink
+}
+.nav{
+	
+	width: 1160px;
+	margin: 0 auto;
+}
+li{
+	float: left;
+}
+li a{
+	display: inline-block;
+	width: 150px;
+	line-height: 70px;
+	color: black;
+}
+li a:hover{
+	background: url(./images05anfu.png) center center9;
+}
+
+
+
+
+
+#content{
+	height: 700px;
+	width: 1160px;
+	margin: 0 auto;
+}
+p{
+	margin-top: 20px;
+	font-size: 20px;
+;
+}
+dl{clear: left;}
+dt,dd{float: left;}
+.p1{
+	width: 90px;
+	height:90px ;
+	background-image: url(photo/700cd22300fec0856951391746783b0d7d0abbf7.png@90w_90h.webp);
+}
+.p2{
+	display: inline;
+	margin-left: 8px;
+}
+.p3{
+	width: 90px;
+	height:90px ;
+	background-image: url(photo/191219e5e5172cba1ff16fe43be3737e499700dc.png@90w_90h.webp);
+}
+.p4{
+	display: inline;
+	margin-left: 8px
+}
+.p5{
+	width: 90px;
+	height:90px ;
+	background-image: url(photo/dd8c538d645c9299717378eb26786ae47b57df46.png@90w_90h.webp);
+}
+.p6{
+	display: inline;
+	margin-left: 8px
+}
+.p7{
+	width: 90px;
+	height:90px ;
+	background-image: url(photo/7e4ad52c045afd4218d583a535f309be2d26f59b.png@90w_90h.png);
+}
+.p8{
+	display: inline;
+	margin-left: 8px
+}
+.p9{
+	width: 90px;
+	height:90px ;
+	background-image:url(photo/3121473d5dd03a9bcccb8490034207e724e731b3.jpg@90w_90h.webp);
+}
+.p10{
+	display: inline;
+	margin-left: 8px
+}
+.p11{
+	width: 90px;
+	height:90px ;
+	background-image:url(photo/109660395c92b9889f0091041b5d32692f6abfae.jpg@90w_90h.webp);
+}
+.p12{
+	display: inline;
+	margin-left: 8px
+}
+.p13{
+	width: 90px;
+	height:90px ;
+	background-image:url(photo/e47117a8eaf8ca86b6f628b83799d3a892db0991.jpg@90w_90h.webp);
+}
+.p14{
+	display: inline;
+	margin-left: 8px
+}
+.p15{
+	width: 90px;
+	height:90px ;
+	background-image:url(photo/fed0df498d034639699c53578d73b1d781a1d05b.png@90w_90h.webp);
+}
+.p16{
+	display: inline;
+	margin-left: 8px
+}
+
+.center{
+	text-align: center;
+}
+.style{
+	float: left;
+	margin-right: 80px;
+	margin-top: 50px;
+}
+.style dl{
+	float: left;
+	
+}
+span{
+	color: pink;
+	display: table-cell;
+	vertical-align: bottom;
+	width: auto;
+}
+.1{
+	height: 60px;
+}
+
+.content1{
+	width: 1160px;
+	margin:0 auto;
+}
+
+.jies{
+	background: url(photo/2.jpg);
+	height: 1800px;
+	width: 1160px;
+}
+
+.jies div p{
+	color: pink;
+}
+.jies div p span{
+	color: red;
+	font-size: 8px;
+}
+.s{
+	height: 450px;
+	margin: 0 auto;
+}
